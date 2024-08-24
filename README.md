@@ -1,4 +1,4 @@
- `README.md` 
+Sampson Gbewa /`README.md` 
 
 ## Hi there 👋
 I am Sampson Gbewa, a software developer with a hands on experience on both frontend and backend development. I'm currently refining my skills in Java, Spring Boot, and frontend technologies, and I'm interested in collaborating on projects in these areas.
@@ -25,10 +25,12 @@ Java Spring Boot development, especially in secure REST APIs.
 Frontend development and creating responsive user interfaces.
 
 📫 How to reach me ...
-Email
-LinkedIn
+Email,
+LinkedIn,
 X
+
 😄 Pronouns ...
 He/Him
+
 ⚡ Fun fact ...
 I love singing and sporting activities. 
